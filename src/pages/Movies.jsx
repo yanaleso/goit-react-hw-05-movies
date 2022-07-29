@@ -1,4 +1,4 @@
-import { fetchSearchingMovie } from "components/API/MovieApiService";
+import { fetchSearchingMovie } from "services/API/MovieApiService";
 import MovieList from "components/MoviesList";
 import SearchBox from "components/SearchBox";
 import { useState, useEffect } from "react";

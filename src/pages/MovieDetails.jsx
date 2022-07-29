@@ -1,4 +1,4 @@
-import { fetchMovieDetails } from "components/API/MovieApiService";
+import { fetchMovieDetails } from "services/API/MovieApiService";
 import BackLink from "components/BackLink";
 import { Box } from "components/Box";
 import MovieInfo from "components/MovieInfo";

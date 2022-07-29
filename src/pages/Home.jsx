@@ -1,4 +1,4 @@
-import {fetchGenresList, fetchTrendingMovies} from "components/API/MovieApiService";
+import {fetchGenresList, fetchTrendingMovies} from "services/API/MovieApiService";
 import { Box } from "components/Box";
 import MovieList from "components/MoviesList";
 import { useState, useEffect } from "react";
